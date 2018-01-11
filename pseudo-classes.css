@@ -2,11 +2,15 @@
     list-style-type: none;
 }
 
-span {
+.inline {
     border: 1px solid black;
     margin: 25 25 25 25
 }
 
-.n-child {
+.n-child section:nth-last-of-type(3) {
+    border: 1px solid black;
+}
+
+.n-child section:nth-last-of-type(1) {
     border: 1px solid black;
 }
