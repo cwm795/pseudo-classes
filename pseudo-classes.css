@@ -1,3 +1,12 @@
 .block {
     list-style-type: none;
 }
+
+span {
+    border: 1px solid black;
+    margin: 25 25 25 25
+}
+
+.n-child {
+    border: 1px solid black;
+}
